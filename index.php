@@ -1,2 +1,1 @@
-Esto lo borro
-fueck
+Esto es una mierda
